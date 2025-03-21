@@ -1,7 +1,7 @@
 # Asanak API
 
-[![PyPI version](https://img.shields.io/pypi/v/asanak-api.svg)](https://pypi.org/project/asanak-api/)
-[![Python versions](https://img.shields.io/pypi/pyversions/asanak-api.svg)](https://pypi.org/project/asanak-api/)
+[![PyPI version](https://img.shields.io/pypi/v/asanak-api.svg)](https://pypi.org/project/asanak-api/0.1.0/)
+[![Python versions](https://img.shields.io/pypi/pyversions/asanak-api.svg)](https://pypi.org/project/asanak-api/0.1.0/)
 
 A Python client library for the Asanak SMS API. This package provides a simple and intuitive interface to interact with Asanak SMS services.
 
