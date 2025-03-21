@@ -14,5 +14,6 @@ dependencies = [
 ]
 
 
-[tool.setuptools]
-packages = ["asanak_api"]
+[tool.setuptools.packages.find]
+where = ["src"]  
+include = ["asanak_api*"]  
